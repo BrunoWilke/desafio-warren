@@ -1,6 +1,6 @@
-# desafio-warren
+# Desafio Warren
 ### Warren Tech Academy
-###### Este repositório contem a resolução dos desafios de programação 1,2 e 3 da Warren Tech Academy
+#### Este repositório contem a resolução dos desafios de programação 1,2 e 3 da Warren Tech Academy
 
 ## ⌨️ Linguagens de Programação
 <p>O Desafio01 foi realizado em Java.</p>
